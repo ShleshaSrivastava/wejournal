@@ -1,0 +1,6 @@
+{
+  "/api/edgestore/[...edgestore]/route": "app/api/edgestore/[...edgestore]/route.js",
+  "/(home)/(routes)/home/page": "app/(home)/(routes)/home/page.js",
+  "/(home)/(routes)/home/[journalPage]/page": "app/(home)/(routes)/home/[journalPage]/page.js",
+  "/(landing)/page": "app/(landing)/page.js"
+}
