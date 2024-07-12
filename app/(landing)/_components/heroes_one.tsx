@@ -24,7 +24,7 @@ export const Heroes_one = () => {
           )}
         >
           <Image
-            src="/p_cover.png"
+            src="/cover1.png"
             fill
             className="object-contain"
             alt="Documents"
